@@ -4,9 +4,7 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: 校园VC
 partners:
-- "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
 services:
 - description: 赋能高校创业教师和大学生创业者
   heading: 创业教育
@@ -20,7 +18,7 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-show_staff: false
+show_staff: true
 menu:
   navigation:
     identifier: _index
