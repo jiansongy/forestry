@@ -5,8 +5,7 @@ banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: 关于校园VC
 sub_heading: 10年推动100万大学生创业
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: 未来创业大学，10年推动100万大学生创业
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
